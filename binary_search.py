@@ -1,3 +1,5 @@
+#O(log n)
+
 def binary_serach(list, item):
     low = 0
     high = len(list) - 1                #za pomocą high i low kontrolujemy, która część listy jest przeszukiwana
